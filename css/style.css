@@ -117,10 +117,16 @@ h3{
     text-transform: none;
 }
 
-p {
+p.service_section {
     letter-spacing: 0;
     line-height:1.8;
     text-align:justify;
+}
+
+p {
+    letter-spacing: 0;
+    line-height:1.8;
+    text-align:center;
 }
 
 a{
